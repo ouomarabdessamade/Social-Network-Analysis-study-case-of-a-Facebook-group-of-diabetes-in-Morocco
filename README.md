@@ -1,4 +1,4 @@
-# Social Network Analysis: Facebook Group for Diabetes in Morocco
+# Social Network Analysis : study case of a Facebook group of diabetes in Morocco
 
 ## Project Overview
 
