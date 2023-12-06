@@ -23,8 +23,11 @@ Post data collection, several cleaning operations were executed:
 
 ## Data Visualization
 
-Following data collection and cleaning, the project transitioned into the data visualization phase. This pivotal step aids in extracting insights from the data by unveiling patterns, trends, and relationships. The included figure illustrates the network of reactions, portraying each node as a group member and edges symbolizing interactions between them.
+Following data collection and cleaning, the project transitioned into the data visualization and structure analysis phase. This pivotal step aids in extracting insights from the data by unveiling patterns, trends, and relationships. The [`Data_Visualization_And_Structure_Analysis.ipynb`](Data_Visualization_And_Structure_Analysis.ipynb) notebook contains detailed information on this phase.
 
+The included figure below illustrates the network of reactions, portraying each node as a group member and edges symbolizing interactions between them.
+
+![Network Graph of User Reactions](fig/NetworkGraphOfUserReactions.png)
 ## Data Analysis
 
 The project goes beyond visualization to extract deeper insights from the data by analyzing both the structure of the interactions between group members and the content of their posts.
