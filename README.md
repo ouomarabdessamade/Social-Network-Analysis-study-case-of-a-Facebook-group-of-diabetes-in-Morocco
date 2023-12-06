@@ -40,3 +40,15 @@ The project goes beyond visualization to extract deeper insights from the data b
 
 - Analyzing textual data to derive insights, patterns, and themes.
 - Analyze Moroccan Darija comments content. Moroccan Darija is a dialect of Arabic widely spoken in Morocco. The aim of this analysis is to gain insights into the language, sentiments, and topics discussed in these comments.
+
+## Further Steps
+
+In continuation of this project, the following steps are envisioned:
+
+1. **Community Engagement:** Develop strategies to foster more active participation and engagement within the Facebook group.
+
+2. **Enhanced Sentiment Analysis:** Deepen the understanding of member sentiments through advanced sentiment analysis techniques.
+
+3. **Collaboration Opportunities:** Identify potential collaboration opportunities with healthcare professionals, organizations, or influencers to enhance the group's impact.
+
+Feel free to contribute, share your insights, or open issues for discussion.
