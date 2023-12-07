@@ -39,7 +39,7 @@ The project goes beyond visualization to extract deeper insights from the data b
 ### Content Analysis
 
 - Analyzing textual data to derive insights, patterns, and themes.
-- Analyze Moroccan Darija comments content. Moroccan Darija is a dialect of Arabic widely spoken in Morocco. The aim of this analysis is to gain insights into the language, sentiments, and topics discussed in these comments.
+- Analyze Moroccan Darija comments content. Moroccan Darija is a dialect of Arabic widely spoken in Morocco. The aim of this analysis is to gain insights into the language, sentiments, and topics discussed in these comments. The [`Content_Analysis.ipynb`](Content_Analysis.ipynb) notebook contains detailed information on this phase.
 
 ## Further Steps
 
